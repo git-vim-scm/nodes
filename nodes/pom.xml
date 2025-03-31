@@ -13,7 +13,7 @@
     <name>Nodes</name>
 
     <properties>
-        <jackson.annotations.version>2.9.4</jackson.annotations.version>
+        <jackson.annotations.version>2.18.3</jackson.annotations.version>
         <jackson.databind.version>2.9.7</jackson.databind.version>
     </properties>
 
